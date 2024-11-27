@@ -1,2 +1,24 @@
-# BrokenEyes
-In this work, a computational framework was developed using the BrokenEyes system to simulate five common eye disorders: Age-related macular degeneration, cataract, glaucoma, refractive errors, and diabetic retinopathy and analyze their effects on neural-like feature representations in deep learning models.
+![BrokenEyes Simulation]([feature_map_differences.png](https://raw.githubusercontent.com/proadhikary/BrokenEyes/refs/heads/main/results/processed-input/elon.png))
+
+**BrokenEyes** is a computational framework designed to simulate the effects of five common eye disorders:  
+**Age-related Macular Degeneration (AMD)**, **Cataract**, **Glaucoma**, **Refractive Errors**, and **Diabetic Retinopathy**.  
+The system generates realistic visual impairments and analyzes their impact on neural-like feature representations in deep learning models.
+
+## Features
+- Simulation of vision disorders using the custom **BrokenEyes** filter system.
+- Training and evaluation of deep learning models on human and non-human datasets under normal and impaired conditions.
+- Quantitative analysis using metrics such as **Activation Energy** and **Cosine Similarity**.
+- Visual comparison of feature maps to identify disorder-specific disruptions.
+
+## Dataset
+The framework uses a combination of:
+- **Labelled Faces in the Wild (LFW)** dataset for "human" images.
+- **MS-COCO 2017** dataset for "non-human" images.
+Both datasets are augmented with disorder-specific filters to create realistic visual impairments.
+
+## Installation
+Clone the repository and install the required dependencies:
+```bash
+git clone https://github.com/yourusername/BrokenEyes.git
+cd BrokenEyes
+pip install -r requirements.txt
