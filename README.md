@@ -36,5 +36,5 @@ pip install -r requirements.txt
 - Evaluation metrics quantified the alignment between normal and disorder-specific feature representations.
 
 
-## Acknowladgement
+## Acknowledgement
 This is a term project for ELL890 - Computational Neuroscience.
