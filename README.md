@@ -37,4 +37,4 @@ pip install -r requirements.txt
 
 
 ## Acknowledgement
-This is a term project for ELL890 - Computational Neuroscience.
+This is a term project for ELL890 - Computational Neuroscience(2401) at IIT Delhi.
