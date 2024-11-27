@@ -1,0 +1,24 @@
+normal:
+Predicted Class: humans
+Confidence: 0.9394
+
+amd:
+Predicted Class: humans
+Confidence: 0.6795
+
+cataract:
+Predicted Class: humans
+Confidence: 0.7702
+
+glaucoma:
+Predicted Class: humans
+Confidence: 0.7060
+
+refractive:
+Predicted Class: humans
+Confidence: 0.8503
+
+retinopathy:
+Predicted Class: humans
+Confidence: 0.8609
+
