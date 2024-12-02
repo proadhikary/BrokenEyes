@@ -12,6 +12,7 @@
 The framework uses a combination of:
 - **Labelled Faces in the Wild (LFW)** dataset for "human" images.
 - **MS-COCO 2017** dataset for "non-human" images.
+  
 Both datasets are augmented with disorder-specific filters to create realistic visual impairments.
 
 ## Installation
